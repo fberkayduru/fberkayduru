@@ -14,7 +14,7 @@ Three autonomous agents for equity research and portfolio monitoring, built with
 | **Monitor Agent** | Extracts the 5–8 most important business drivers from a research report and tracks them weekly via web search, flagging material changes green / yellow / red. Includes a milestone calendar with dated events and bull/bear trigger definitions |
 | **Media Agent** | Scans weekly media appearances of a curated watchlist — investors, semiconductor/AI company executives, and frontier-lab researchers — summarizes each with investment-focused notes, then synthesizes cross-cutting themes |
 
-**→ [fberkayduru/research-agent](https://github.com/fberkayduru/research-agent)**
+**→ [fberkayduru/analyst-agent](https://github.com/fberkayduru/analyst-agent)**
 
 **Stack:** Python · Anthropic API · DuckDuckGo search · BeautifulSoup · Rich
 
